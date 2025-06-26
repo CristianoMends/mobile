@@ -40,18 +40,19 @@ android {
 }
 
 dependencies {
-    implementation("androidx.core:core-ktx:1.12.0")
-    implementation("androidx.compose.ui:ui:1.5.3")
-    implementation("androidx.compose.material3:material3:1.3.2")
-    implementation("androidx.compose.ui:ui-tooling-preview:1.5.3")
-    implementation("androidx.navigation:navigation-compose:2.7.3")
-    implementation("androidx.lifecycle:lifecycle-runtime-ktx:2.6.2")
-    implementation("androidx.activity:activity-compose:1.7.2")
-    implementation("androidx.compose.runtime:runtime-livedata:1.5.3")
-    implementation("androidx.core:core-splashscreen:1.0.1")
-    implementation("androidx.compose.material:material-icons-core:1.x.x")
-    implementation("androidx.compose.material:material-icons-extended:1.x.x")
+
+    implementation(libs.androidx.core.ktx.v1160)
+    implementation(libs.ui)
+    implementation(libs.material3)
+    implementation(libs.ui.tooling.preview)
+    implementation(libs.androidx.navigation.compose)
+    implementation(libs.androidx.lifecycle.runtime.ktx.v262)
+    implementation(libs.androidx.activity.compose.v1101)
+    implementation(libs.androidx.runtime.livedata)
+    implementation(libs.androidx.core.splashscreen)
+    implementation(libs.androidx.material.icons.core)
+    implementation(libs.androidx.material.icons.extended)
 // Notificações
-    implementation("androidx.core:core-ktx:1.10.1")
+    implementation(libs.androidx.core.ktx.v1160)
     implementation(libs.androidx.material3.android)
 }
