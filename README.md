@@ -18,7 +18,8 @@ A disciplina de Desenvolvimento de Software para Dispositivos Móveis tem como o
 | **TaskLiteApp**         | Gerenciador simples de tarefas com marcação de concluídas.                 | <img src="./TaskLiteApp/Screenshot_20250626_204627.png" alt="TaskLiteApp Screenshot" height="200px"> | [Abrir TaskLiteApp](./TaskLiteApp/)    |
 | **TasksManagerApp**     | Aplicativo para gerenciamento avançado de tarefas e projetos.              | <img src="./TasksManagerApp/screenshot.png" alt="TasksManagerApp Screenshot" height="200px">  | [Abrir TasksManagerApp](./TasksManagerApp/) |
 | **ZooApp**              | Apresenta animais de zoológico com informações e imagens.                  | <img src="./ZooApp/screenshot.png" alt="ZooApp Screenshot" height="200px">                    | [Abrir ZooApp](./ZooApp/)              |
-| **AlarmApp**            | Aplicativo para configurar e gerenciar alarmes personalizados.             | <img src="./AlarmApp/Screenshot_20250626_213246.png" alt="AlarmApp Screenshot" height="200px"> | [Abrir AlarmApp](./AlarmApp/)          |
+| **AlarmApp**            | Aplicativo para configurar alarme.             | <img src="./AlarmApp/Screenshot_20250626_213246.png" alt="AlarmApp Screenshot" height="200px"> | [Abrir AlarmApp](./AlarmApp/)          |
+| **NumberGeneratorApp**  | Gera números aleatórios.        | <img src="./NumberGeneratorApp/Screenshot_20250626_215855.png" alt="NumberGeneratorApp Screenshot" height="200px"> | [Abrir NumberGeneratorApp](./NumberGeneratorApp/) |
 
 > **Nota:** Caso algum aplicativo não possua imagem, a célula correspondente ficará vazia.
 
